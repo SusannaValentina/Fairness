@@ -12,6 +12,7 @@ Potete scaricare il dataset e vedere la documentazione da questo link
 Per ottenere maggiori attributi su cui calcolare la fairness di un certo ranking, occorre aumentare i dati degli utenti ottenendo tramite tecniche di facial recognition proprietà come il genere, l'età, l'etnia ecc.
 Per utilizzare i servizi di Face++ è necessario registrarsi a questo link
 > https://console.faceplusplus.com/login
+
 e generare delle API Key, richieste quando si invoca uno dei loro servizi.
 
 Nel codice all'interno della cartella Faceplusplus trovate le mie API Key già inserite, potete decidere voi se utilizzare quelle o sostituirle con le vostre.
